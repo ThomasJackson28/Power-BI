@@ -1,10 +1,29 @@
-An interactive dashboard built using Power BI online, analysing a chocolate sales dataset of 3284 rows across 6 countries and 25 salespeople. 
+# Power BI Projects
 
-Dashboard includes:
-- Sales by Country bar chart
-- Sales trend over time line chart
-- Total revenue card
-- Interactive slicers for salesperson and Country
+## Overview
+A collection of interactive dashboards built using Power BI 
+across multiple datasets.
 
-View the live interactive dashboard here:
-<iframe title="Chocolate Sales Data Set" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiOTc4YjgzMWItODNhNC00YzAzLThhYWYtOGUwZmY5NTNkNWUzIiwidCI6IjY3YmRhN2VlLWZkODAtNDFlZi1hYzkxLTM1ODQxODI5MGExZSIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
+## Projects
+
+### 1. Chocolate Sales Analysis
+Dashboard analysing chocolate sales performance across 
+salespeople, products, and regions.
+
+![Dashboard Overview](dashboard-overview.png)
+![Salesperson Performance](salesperson-performance.png)
+
+### 2. Superstore Sales Analysis
+Two page dashboard analysing US superstore sales, profit 
+margins, and the impact of discounting.
+
+![Sales Overview](superstore-sales-overview.png)
+![Profitability and Discounting](superstore-profitability-discounting.png)
+
+## Skills Demonstrated
+- Building interactive dashboards
+- Creating bar charts, line charts, and card visuals
+- Multi-page report design
+- Connecting and loading CSV data
+- Visualising trends and profitability metrics
+ 
