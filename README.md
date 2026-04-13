@@ -17,8 +17,9 @@ salespeople, products, and regions.
 Two page dashboard analysing US superstore sales, profit 
 margins, and the impact of discounting.
 
-![Sales Overview](superstore-sales-overview.png)
-![Profitability and Discounting](superstore-profitability-discounting.png)
+![Sales Overview](dashboard-sales-overview.png)
+![Profitability and Discounting](dashboard-profitability-discounting.png)
+
 
 ## Skills Demonstrated
 - Building interactive dashboards
